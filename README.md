@@ -32,12 +32,15 @@ We designed a fully interactive and citizen-friendly system interface with:
 > 🖍️ Designed using Figma & hand sketches
 
 > Login Page
+
 ![LoginPage](https://github.com/user-attachments/assets/6e4bdca1-3242-4fcc-abad-44c9fb48998e)
 
 > Personal Wellness Dashboard
+
 ![Personal_Wellness_Dashboard](https://github.com/user-attachments/assets/c8390bb4-2bf1-4c40-9230-b44ed8e3951b)
 
 > Environment Monitoring Dashboard
+
 ![Environmental_Monitoring_Dashboard](https://github.com/user-attachments/assets/c5880401-aad6-4585-83fe-4c14de87af4f)
 
 > Alerts Dashboard
