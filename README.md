@@ -106,16 +106,6 @@ We explored key health equity indicators using:
 
 ---
 
-## 🎥 Project Assets
-
-| Type         | File Name                                   |
-|--------------|----------------------------------------------|
-| 📄 Design Doc| `Group08_SmartCityProject_SDD.pdf`           |
-| 📽️ Video     | `Group08_SmartCityProject_Presentation.mp4`  |
-| 🖼️ Slides     | `Group08_SmartCityProject_Slides.ppt`        |
-
----
-
 ## ✅ Course & Evaluation Info
 
 This project was completed under the **INFO5100 – Application Engineering & Development** course. It meets the university’s evaluation criteria for:
