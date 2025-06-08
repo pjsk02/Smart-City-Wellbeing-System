@@ -29,8 +29,25 @@ We designed a fully interactive and citizen-friendly system interface with:
 - 📝 **Survey Forms** (For gathering feedback & demographic data)
 - 🚨 **Alerts Page** (Environmental and emergency notifications)
 
-> 🖍️ Designed using Figma & hand sketches  
+> 🖍️ Designed using Figma & hand sketches
+
+> Login Page
+![LoginPage](https://github.com/user-attachments/assets/6e4bdca1-3242-4fcc-abad-44c9fb48998e)
+
+> Personal Wellness Dashboard
+![Personal_Wellness_Dashboard](https://github.com/user-attachments/assets/c8390bb4-2bf1-4c40-9230-b44ed8e3951b)
+
+> Environment Monitoring Dashboard
+![Environmental_Monitoring_Dashboard](https://github.com/user-attachments/assets/c5880401-aad6-4585-83fe-4c14de87af4f)
+
+> Alerts Dashboard
+![Alerts_Dashboard](https://github.com/user-attachments/assets/a5d64aa1-a289-4f14-9cd2-d14dc57185d1)
+
+> Survey Dashboard
+![Survey_Dashboard](https://github.com/user-attachments/assets/97dc2186-ac4b-4012-8243-a30a524aa7bc)
+
 ---
+
 
 ## 🏗️ System Architecture
 
@@ -42,7 +59,7 @@ The system is structured into the following layers:
 4. **Analytics Engine**: Detects patterns, raises alerts, forecasts needs  
 5. **User Interface**: Web-based dashboards for Admins and Users
 
-> 📂 See `/docs/system_architecture.png` for the full diagram
+![System_Architecture_Diagram](https://github.com/user-attachments/assets/8be7e7d5-3eaf-4849-bd2d-5f815e759574)
 
 ---
 
@@ -55,7 +72,7 @@ The system is structured into the following layers:
 
 This schema supports detailed tracking of health, feedback, and engagement.
 
-> 📂 See `/schema/db_schema.png` for full ER model
+![Database_Schema](https://github.com/user-attachments/assets/12b0cbc3-7267-477b-b487-8b692e91ddd0)
 
 ---
 
@@ -70,7 +87,10 @@ We explored key health equity indicators using:
 - 🧍‍♂️ **Employment vs Mental Health** – Mental well-being patterns  
 - 🤖 **Linear Regression** – Predicts need for new hospitals (33% accuracy)
 
-> 📂 Visualizations available in `/analysis/`
+![Income_Distribution](https://github.com/user-attachments/assets/e318cc2c-d74e-401a-a2d1-7b5272857790)
+![HealthCare_Levels](https://github.com/user-attachments/assets/cdf1604c-f41d-4986-b319-c3dae91e72a5)
+![HealthCare_Distribution](https://github.com/user-attachments/assets/e099b45a-4ddc-434a-8f76-f53c0ab40361)
+![PredictiveModel_LinearRegression](https://github.com/user-attachments/assets/a41cdba5-b99f-4a5a-ac03-e641b339bd1a)
 
 ---
 
