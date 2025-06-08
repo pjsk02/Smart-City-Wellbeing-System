@@ -3,7 +3,7 @@ A Figma Application done for the course INFO5100 - Application Engineering Devel
 
 # 🏙️ Smart City Well-being Analysis and Intervention System
 
-A comprehensive urban health and safety monitoring system developed as part of the **INFO5100: Application Engineering & Development** course at **Northeastern University**. This project combines IoT, data analysis, AI, and system design (Figma) to build a smarter and healthier city ecosystem.
+A comprehensive urban health and safety monitoring system developed as part of the **INFO5100: Application Engineering & Development** course at **Northeastern University**. This project combines IoT, data analysis, AI, and system design (using Figma) to build a smarter and healthier city ecosystem.
 
 ---
 
@@ -29,7 +29,7 @@ We designed a fully interactive and citizen-friendly system interface with:
 - 📝 **Survey Forms** (For gathering feedback & demographic data)
 - 🚨 **Alerts Page** (Environmental and emergency notifications)
 
-> 🖍️ Designed using Figma & hand sketches
+🖍️ Designed using Figma & hand sketches
 
 > Login Page
 
@@ -44,9 +44,11 @@ We designed a fully interactive and citizen-friendly system interface with:
 ![Environmental_Monitoring_Dashboard](https://github.com/user-attachments/assets/c5880401-aad6-4585-83fe-4c14de87af4f)
 
 > Alerts Dashboard
+
 ![Alerts_Dashboard](https://github.com/user-attachments/assets/a5d64aa1-a289-4f14-9cd2-d14dc57185d1)
 
 > Survey Dashboard
+
 ![Survey_Dashboard](https://github.com/user-attachments/assets/97dc2186-ac4b-4012-8243-a30a524aa7bc)
 
 ---
@@ -123,7 +125,6 @@ We explored key health equity indicators using:
 - 📡 IoT integration + anonymized data collection  
 - 🔐 Strong privacy & access control measures  
 - 👩‍🏫 Citizen onboarding via city campaigns  
-- 🏥 Partner with public health agencies  
 - 🧪 Run pilot tests → iterate based on feedback  
 - 📦 Modular design for easy scalability  
 
